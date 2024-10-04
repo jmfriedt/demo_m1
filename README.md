@@ -1,1 +1,1 @@
-ceci est un lien clickable : http://jmfriedt.free.fr
+ceci est un lien clickable : [mon site web](http://jmfriedt.free.fr)
